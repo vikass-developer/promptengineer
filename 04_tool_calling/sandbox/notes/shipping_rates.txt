@@ -1,0 +1,6 @@
+Shipping rates (sample data)
+
+Standard: 4.99 per order, 5-7 business days
+Express:  14.99 per order, 1-2 business days
+Freight (items over 30 kg): 2.10 per kg, minimum 49.00
+Free standard shipping on orders over 75.00
